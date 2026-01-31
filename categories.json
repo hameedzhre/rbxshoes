@@ -1,24 +1,27 @@
 {
   "metadata": {
-    "generated_at": "2026-01-31T10:26:09.504Z",
+    "generated_at": "2026-01-31T18:10:59.651Z",
     "total_categories": 1
   },
   "categories": {
     "shoes": {
       "display_name": "Shoes",
-      "count": 2,
+      "count": 5,
       "subcategories": {
-        "running": {
-          "display_name": "running",
-          "count": 2
+        "running shoes": {
+          "display_name": "Running Shoes",
+          "count": 5
         }
       },
       "products": [
-        "rbx-running-01",
-        "rbx-running-02"
+        "RBX_Active_Men?s_Airy_Mesh_Athletic_Sneaker",
+        "RBX_Active_Unisex_Adult_Athletic_Shoe",
+        "RBX_Active_Women?s_Athletic_Sneaker",
+        "RBX_Active_Women?s_Slip_On_Athletic_Training_Shoe",
+        "RBX_Active_Women?s_Training_Shoe"
       ],
-      "avg_rating": 2,
-      "avg_price": 16
+      "avg_rating": 4,
+      "avg_price": 36.84
     }
   }
 }
