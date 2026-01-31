@@ -1,37 +1,64 @@
 {
   "metadata": {
-    "generated_at": "2026-01-31T10:26:08.931Z",
-    "total_products": 2,
-    "last_updated": "2026-01-31T10:26:08.931Z",
+    "generated_at": "2026-01-31T18:10:58.784Z",
+    "total_products": 5,
+    "last_updated": "2026-01-31T18:10:58.784Z",
     "format_version": "1.1"
   },
   "categories": {
     "shoes": {
-      "count": 2,
+      "count": 5,
       "subcategories": {
-        "running": {
-          "count": 2,
-          "display_name": "running"
+        "running shoes": {
+          "count": 5,
+          "display_name": "Running Shoes"
         }
       },
       "products": [
         {
-          "sku": "rbx-running-01",
-          "name": "RBX Active Unisex Adult Athletic Shoe Lightweight Breathable Knit Mesh Running Performance Training Sneaker for Men, Women",
+          "sku": "RBX_Active_Men?s_Airy_Mesh_Athletic_Sneaker",
+          "name": "RBX Active Men's Airy Mesh Athletic Sneaker, Lightweight Running Training Shoe",
           "brand": "RBX",
-          "subcategory": "running",
-          "price": "16.00",
-          "rating": 2,
-          "slug": "shoes_for_jogging"
+          "subcategory": "Running Shoes",
+          "price": "44.40",
+          "rating": 4.2,
+          "slug": "RBX_Active_Men?s_Airy_Mesh_Athletic_Sneaker"
         },
         {
-          "sku": "rbx-running-02",
-          "name": "RBX Active Unisex Adult Athletic Shoe Lightweight Breathable Knit Mesh Running Performance Training Sneaker for Men",
+          "sku": "RBX_Active_Unisex_Adult_Athletic_Shoe",
+          "name": "RBX Active Unisex Adult Athletic Shoe Lightweight Breathable Knit Mesh Running Performance Training Sneaker for Men, Women",
           "brand": "RBX",
-          "subcategory": "running",
-          "price": "16.00",
-          "rating": 2,
-          "slug": "shoes_for_jogging"
+          "subcategory": "Running Shoes",
+          "price": "34.95",
+          "rating": 4.3,
+          "slug": "RBX_Active_Unisex_Adult_Athletic_Shoe"
+        },
+        {
+          "sku": "RBX_Active_Women?s_Athletic_Sneaker",
+          "name": "RBX Active Women's Athletic Sneaker Ladies Breathable Mesh Running Training Shoe",
+          "brand": "RBX",
+          "subcategory": "Running Shoes",
+          "price": "33.95",
+          "rating": 3.8,
+          "slug": "RBX_Active_Women?s_Athletic_Sneaker"
+        },
+        {
+          "sku": "RBX_Active_Women?s_Slip_On_Athletic_Training_Shoe",
+          "name": "RBX Active Women's Slip On Athletic Training Shoe, Lightweight Running Sneaker, Quick Dry Mesh Easy On/Off Lace Up Gym Shoes",
+          "brand": "RBX",
+          "subcategory": "Running Shoes",
+          "price": "34.90",
+          "rating": 3.6,
+          "slug": "RBX_Active_Women?s_Slip_On_Athletic_Training_Shoe"
+        },
+        {
+          "sku": "RBX_Active_Women?s_Training_Shoe",
+          "name": "RBX Active Women's Training Shoe Slip On Lace Up Breathable Knit Running Sneaker",
+          "brand": "RBX",
+          "subcategory": "Running Shoes",
+          "price": "36.00",
+          "rating": 4.2,
+          "slug": "RBX_Active_Women?s_Training_Shoe"
         }
       ],
       "display_name": "Shoes"
@@ -39,77 +66,145 @@
   },
   "brands": {
     "rbx": {
-      "count": 2,
+      "count": 5,
       "products": [
         {
-          "sku": "rbx-running-01",
-          "name": "RBX Active Unisex Adult Athletic Shoe Lightweight Breathable Knit Mesh Running Performance Training Sneaker for Men, Women",
+          "sku": "RBX_Active_Men?s_Airy_Mesh_Athletic_Sneaker",
+          "name": "RBX Active Men's Airy Mesh Athletic Sneaker, Lightweight Running Training Shoe",
           "category": "Shoes",
-          "price": "16.00",
-          "rating": 2
+          "price": "44.40",
+          "rating": 4.2
         },
         {
-          "sku": "rbx-running-02",
-          "name": "RBX Active Unisex Adult Athletic Shoe Lightweight Breathable Knit Mesh Running Performance Training Sneaker for Men",
+          "sku": "RBX_Active_Unisex_Adult_Athletic_Shoe",
+          "name": "RBX Active Unisex Adult Athletic Shoe Lightweight Breathable Knit Mesh Running Performance Training Sneaker for Men, Women",
           "category": "Shoes",
-          "price": "16.00",
-          "rating": 2
+          "price": "34.95",
+          "rating": 4.3
+        },
+        {
+          "sku": "RBX_Active_Women?s_Athletic_Sneaker",
+          "name": "RBX Active Women's Athletic Sneaker Ladies Breathable Mesh Running Training Shoe",
+          "category": "Shoes",
+          "price": "33.95",
+          "rating": 3.8
+        },
+        {
+          "sku": "RBX_Active_Women?s_Slip_On_Athletic_Training_Shoe",
+          "name": "RBX Active Women's Slip On Athletic Training Shoe, Lightweight Running Sneaker, Quick Dry Mesh Easy On/Off Lace Up Gym Shoes",
+          "category": "Shoes",
+          "price": "34.90",
+          "rating": 3.6
+        },
+        {
+          "sku": "RBX_Active_Women?s_Training_Shoe",
+          "name": "RBX Active Women's Training Shoe Slip On Lace Up Breathable Knit Running Sneaker",
+          "category": "Shoes",
+          "price": "36.00",
+          "rating": 4.2
         }
       ],
       "display_name": "RBX"
     }
   },
   "price_ranges": {
-    "under_20": [
-      "rbx-running-01",
-      "rbx-running-02"
+    "under_20": [],
+    "20_50": [
+      "RBX_Active_Men?s_Airy_Mesh_Athletic_Sneaker",
+      "RBX_Active_Unisex_Adult_Athletic_Shoe",
+      "RBX_Active_Women?s_Athletic_Sneaker",
+      "RBX_Active_Women?s_Slip_On_Athletic_Training_Shoe",
+      "RBX_Active_Women?s_Training_Shoe"
     ],
-    "20_50": [],
     "50_100": [],
     "over_100": []
   },
   "rating_ranges": {
     "5_star": [],
-    "4_5_star": [],
-    "4_star": [],
+    "4_5_star": [
+      "RBX_Active_Men?s_Airy_Mesh_Athletic_Sneaker",
+      "RBX_Active_Unisex_Adult_Athletic_Shoe",
+      "RBX_Active_Women?s_Training_Shoe"
+    ],
+    "4_star": [
+      "RBX_Active_Women?s_Athletic_Sneaker",
+      "RBX_Active_Women?s_Slip_On_Athletic_Training_Shoe"
+    ],
     "3_5_star": [],
     "3_star": [],
-    "below_3": [
-      "rbx-running-01",
-      "rbx-running-02"
-    ]
+    "below_3": []
   },
   "by_sku": {
-    "rbx-running-01": {
+    "RBX_Active_Men?s_Airy_Mesh_Athletic_Sneaker": {
+      "name": "RBX Active Men's Airy Mesh Athletic Sneaker, Lightweight Running Training Shoe",
+      "brand": "RBX",
+      "category": "Shoes",
+      "subcategory": "Running Shoes",
+      "price": "44.40",
+      "rating": 4.2,
+      "slug": "RBX_Active_Men?s_Airy_Mesh_Athletic_Sneaker",
+      "image_count": 15
+    },
+    "RBX_Active_Unisex_Adult_Athletic_Shoe": {
       "name": "RBX Active Unisex Adult Athletic Shoe Lightweight Breathable Knit Mesh Running Performance Training Sneaker for Men, Women",
       "brand": "RBX",
       "category": "Shoes",
-      "subcategory": "running",
-      "price": "16.00",
-      "rating": 2,
-      "slug": "shoes_for_jogging",
-      "image_count": 2
+      "subcategory": "Running Shoes",
+      "price": "34.95",
+      "rating": 4.3,
+      "slug": "RBX_Active_Unisex_Adult_Athletic_Shoe",
+      "image_count": 18
     },
-    "rbx-running-02": {
-      "name": "RBX Active Unisex Adult Athletic Shoe Lightweight Breathable Knit Mesh Running Performance Training Sneaker for Men",
+    "RBX_Active_Women?s_Athletic_Sneaker": {
+      "name": "RBX Active Women's Athletic Sneaker Ladies Breathable Mesh Running Training Shoe",
       "brand": "RBX",
       "category": "Shoes",
-      "subcategory": "running",
-      "price": "16.00",
-      "rating": 2,
-      "slug": "shoes_for_jogging",
-      "image_count": 2
+      "subcategory": "Running Shoes",
+      "price": "33.95",
+      "rating": 3.8,
+      "slug": "RBX_Active_Women?s_Athletic_Sneaker",
+      "image_count": 24
+    },
+    "RBX_Active_Women?s_Slip_On_Athletic_Training_Shoe": {
+      "name": "RBX Active Women's Slip On Athletic Training Shoe, Lightweight Running Sneaker, Quick Dry Mesh Easy On/Off Lace Up Gym Shoes",
+      "brand": "RBX",
+      "category": "Shoes",
+      "subcategory": "Running Shoes",
+      "price": "34.90",
+      "rating": 3.6,
+      "slug": "RBX_Active_Women?s_Slip_On_Athletic_Training_Shoe",
+      "image_count": 13
+    },
+    "RBX_Active_Women?s_Training_Shoe": {
+      "name": "RBX Active Women's Training Shoe Slip On Lace Up Breathable Knit Running Sneaker",
+      "brand": "RBX",
+      "category": "Shoes",
+      "subcategory": "Running Shoes",
+      "price": "36.00",
+      "rating": 4.2,
+      "slug": "RBX_Active_Women?s_Training_Shoe",
+      "image_count": 6
     }
   },
   "by_slug": {
-    "shoes_for_jogging": "rbx-running-02"
+    "RBX_Active_Men?s_Airy_Mesh_Athletic_Sneaker": "RBX_Active_Men?s_Airy_Mesh_Athletic_Sneaker",
+    "RBX_Active_Unisex_Adult_Athletic_Shoe": "RBX_Active_Unisex_Adult_Athletic_Shoe",
+    "RBX_Active_Women?s_Athletic_Sneaker": "RBX_Active_Women?s_Athletic_Sneaker",
+    "RBX_Active_Women?s_Slip_On_Athletic_Training_Shoe": "RBX_Active_Women?s_Slip_On_Athletic_Training_Shoe",
+    "RBX_Active_Women?s_Training_Shoe": "RBX_Active_Women?s_Training_Shoe"
   },
   "sku_list": [
-    "rbx-running-01",
-    "rbx-running-02"
+    "RBX_Active_Men?s_Airy_Mesh_Athletic_Sneaker",
+    "RBX_Active_Unisex_Adult_Athletic_Shoe",
+    "RBX_Active_Women?s_Athletic_Sneaker",
+    "RBX_Active_Women?s_Slip_On_Athletic_Training_Shoe",
+    "RBX_Active_Women?s_Training_Shoe"
   ],
   "slug_list": [
-    "shoes_for_jogging",
-    "shoes_for_jogging"
+    "RBX_Active_Men?s_Airy_Mesh_Athletic_Sneaker",
+    "RBX_Active_Unisex_Adult_Athletic_Shoe",
+    "RBX_Active_Women?s_Athletic_Sneaker",
+    "RBX_Active_Women?s_Slip_On_Athletic_Training_Shoe",
+    "RBX_Active_Women?s_Training_Shoe"
   ]
 }
