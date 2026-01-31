@@ -1,21 +1,38 @@
 {
   "metadata": {
-    "generated_at": "2026-01-29T13:01:43.144Z",
-    "total_products": 1,
+    "generated_at": "2026-01-31T03:20:30.590Z",
+    "total_products": 2,
     "categories": {
-      "Shoes": 1
+      "Shoes": 2
     },
     "brands": {
-      "RBX": 1
+      "RBX": 2
     },
     "price_ranges": {
-      "under_20": 1,
+      "under_20": 2,
       "20_50": 0,
       "50_100": 0,
       "over_100": 0
     }
   },
   "products": [
+    {
+      "sku": "rbx-running-02",
+      "name": "RBX Active Unisex Adult Athletic Shoe Lightweight Breathable Knit Mesh Running Performance Training Sneaker for Men",
+      "brand": "RBX",
+      "category": "Shoes",
+      "subcategory": "running",
+      "gender": "Unisex",
+      "price_min": 12,
+      "price_max": 20,
+      "average_price": "16.00",
+      "rating": 40,
+      "review_count": 100,
+      "overall_score": 9,
+      "image_count": 2,
+      "slug": "shoes_for_jogging",
+      "json_file": "rbx-running-02.json"
+    },
     {
       "sku": "rbx-running-01",
       "name": "RBX Active Unisex Adult Athletic Shoe Lightweight Breathable Knit Mesh Running Performance Training Sneaker for Men, Women",
