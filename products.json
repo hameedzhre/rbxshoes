@@ -1,9 +1,11 @@
 {
   "metadata": {
-    "generated_at": "2026-01-31T10:17:24.998Z",
+    "generated_at": "2026-01-31T10:26:08.328Z",
     "total_products": 2,
-    "last_sync": "2026-01-31T10:17:24.998Z",
-    "format_version": "1.0"
+    "last_sync": "2026-01-31T10:26:08.328Z",
+    "format_version": "1.1",
+    "categories_count": 1,
+    "brands_count": 1
   },
   "products": [
     {
@@ -18,7 +20,7 @@
       "price_min": 12,
       "price_max": 20,
       "currency": "USD",
-      "rating": 40,
+      "rating": 2,
       "review_count": 100,
       "comfort_score": 8,
       "durability_score": 9,
@@ -35,7 +37,7 @@
         "https://m.media-amazon.com/images/I/715EhO2W4EL._AC_SY695_.jpg",
         "https://m.media-amazon.com/images/I/61jx39VsFPL._AC_SY695_.jpg"
       ],
-      "last_updated": "2026-01-31T10:17:24.944Z",
+      "last_updated": "2026-01-31T10:26:08.297Z",
       "average_price": "16.00"
     },
     {
@@ -50,7 +52,7 @@
       "price_min": 12,
       "price_max": 20,
       "currency": "USD",
-      "rating": 40,
+      "rating": 2,
       "review_count": 100,
       "comfort_score": 9,
       "durability_score": 9,
@@ -67,7 +69,7 @@
         "https://m.media-amazon.com/images/I/715EhO2W4EL._AC_SY695_.jpg",
         "https://m.media-amazon.com/images/I/61jx39VsFPL._AC_SY695_.jpg"
       ],
-      "last_updated": "2026-01-31T10:17:24.946Z",
+      "last_updated": "2026-01-31T10:26:08.298Z",
       "average_price": "16.00"
     }
   ]
