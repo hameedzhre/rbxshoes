@@ -1,0 +1,74 @@
+{
+  "metadata": {
+    "generated_at": "2026-01-31T10:17:24.998Z",
+    "total_products": 2,
+    "last_sync": "2026-01-31T10:17:24.998Z",
+    "format_version": "1.0"
+  },
+  "products": [
+    {
+      "product_id": "rbx-running-01",
+      "asin": "sku_gdjqq",
+      "product_name": "RBX Active Unisex Adult Athletic Shoe Lightweight Breathable Knit Mesh Running Performance Training Sneaker for Men, Women",
+      "brand_name": "RBX",
+      "category": "Shoes",
+      "subcategory": "running",
+      "gender": "Unisex",
+      "amazon_url": "https://amzn.to/4bJ6oYb",
+      "price_min": 12,
+      "price_max": 20,
+      "currency": "USD",
+      "rating": 40,
+      "review_count": 100,
+      "comfort_score": 8,
+      "durability_score": 9,
+      "breathability_score": 8.5,
+      "overall_score": 8.5,
+      "short_description": "thsi dsfask jsakdjk jksajdk jbbasjbd,asd jas",
+      "bullet_1": "jsahdksaklsajdnas,n,dn",
+      "bullet_2": "hgjhgsjdgjakdsa",
+      "bullet_3": "jaksdhkadasd",
+      "primary_keyword": "mb,mn,smzd,sa",
+      "slug": "shoes_for_jogging",
+      "sku": "rbx-running-01",
+      "image_urls": [
+        "https://m.media-amazon.com/images/I/715EhO2W4EL._AC_SY695_.jpg",
+        "https://m.media-amazon.com/images/I/61jx39VsFPL._AC_SY695_.jpg"
+      ],
+      "last_updated": "2026-01-31T10:17:24.944Z",
+      "average_price": "16.00"
+    },
+    {
+      "product_id": "rbx-running-02",
+      "asin": "sku_gdjqqjhk",
+      "product_name": "RBX Active Unisex Adult Athletic Shoe Lightweight Breathable Knit Mesh Running Performance Training Sneaker for Men",
+      "brand_name": "RBX",
+      "category": "Shoes",
+      "subcategory": "running",
+      "gender": "Unisex",
+      "amazon_url": "https://amzn.to/4bJ6oYb",
+      "price_min": 12,
+      "price_max": 20,
+      "currency": "USD",
+      "rating": 40,
+      "review_count": 100,
+      "comfort_score": 9,
+      "durability_score": 9,
+      "breathability_score": 9,
+      "overall_score": 9,
+      "short_description": "thsi dsfask jsakdjk jksajdk jbbasjbd,asd jas",
+      "bullet_1": "jsahdksaklsajdnas,n,dn",
+      "bullet_2": "hgjhgsjdgjakdsa",
+      "bullet_3": "jaksdhkadasd",
+      "primary_keyword": "mb,mn,smzd,sa",
+      "slug": "shoes_for_jogging",
+      "sku": "rbx-running-02",
+      "image_urls": [
+        "https://m.media-amazon.com/images/I/715EhO2W4EL._AC_SY695_.jpg",
+        "https://m.media-amazon.com/images/I/61jx39VsFPL._AC_SY695_.jpg"
+      ],
+      "last_updated": "2026-01-31T10:17:24.946Z",
+      "average_price": "16.00"
+    }
+  ]
+}
