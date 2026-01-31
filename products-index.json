@@ -1,0 +1,83 @@
+{
+  "metadata": {
+    "generated_at": "2026-01-31T10:17:25.543Z",
+    "total_products": 2,
+    "last_updated": "2026-01-31T10:17:25.543Z"
+  },
+  "categories": {
+    "Shoes": {
+      "count": 2,
+      "subcategories": {
+        "running": 2
+      },
+      "products": [
+        {
+          "sku": "rbx-running-01",
+          "name": "RBX Active Unisex Adult Athletic Shoe Lightweight Breathable Knit Mesh Running Performance Training Sneaker for Men, Women",
+          "brand": "RBX",
+          "subcategory": "running",
+          "price": "16.00",
+          "rating": 40
+        },
+        {
+          "sku": "rbx-running-02",
+          "name": "RBX Active Unisex Adult Athletic Shoe Lightweight Breathable Knit Mesh Running Performance Training Sneaker for Men",
+          "brand": "RBX",
+          "subcategory": "running",
+          "price": "16.00",
+          "rating": 40
+        }
+      ]
+    }
+  },
+  "brands": {
+    "RBX": {
+      "count": 2,
+      "products": [
+        "rbx-running-01",
+        "rbx-running-02"
+      ]
+    }
+  },
+  "price_ranges": {
+    "under_20": [
+      "rbx-running-01",
+      "rbx-running-02"
+    ],
+    "20_50": [],
+    "50_100": [],
+    "over_100": []
+  },
+  "rating_ranges": {
+    "5_star": [
+      "rbx-running-01",
+      "rbx-running-02"
+    ],
+    "4_5_star": [],
+    "4_star": [],
+    "3_5_star": [],
+    "3_star": [],
+    "below_3": []
+  },
+  "by_sku": {
+    "rbx-running-01": {
+      "name": "RBX Active Unisex Adult Athletic Shoe Lightweight Breathable Knit Mesh Running Performance Training Sneaker for Men, Women",
+      "brand": "RBX",
+      "category": "Shoes",
+      "price": "16.00",
+      "rating": 40,
+      "slug": "shoes_for_jogging"
+    },
+    "rbx-running-02": {
+      "name": "RBX Active Unisex Adult Athletic Shoe Lightweight Breathable Knit Mesh Running Performance Training Sneaker for Men",
+      "brand": "RBX",
+      "category": "Shoes",
+      "price": "16.00",
+      "rating": 40,
+      "slug": "shoes_for_jogging"
+    }
+  },
+  "by_slug": {
+    "shoes_for_jogging": "rbx-running-02"
+  }
+}
