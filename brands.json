@@ -1,0 +1,24 @@
+{
+  "metadata": {
+    "generated_at": "2026-01-31T10:26:10.034Z",
+    "total_brands": 1
+  },
+  "brands": {
+    "rbx": {
+      "display_name": "RBX",
+      "count": 2,
+      "products": [
+        "rbx-running-01",
+        "rbx-running-02"
+      ],
+      "avg_rating": 2,
+      "avg_price": 16,
+      "categories": {
+        "shoes": {
+          "display_name": "Shoes",
+          "count": 2
+        }
+      }
+    }
+  }
+}
