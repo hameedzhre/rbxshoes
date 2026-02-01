@@ -1,27 +1,42 @@
 {
   "metadata": {
-    "generated_at": "2026-01-31T18:10:59.651Z",
+    "generated_at": "2026-02-01T18:55:02.988Z",
     "total_categories": 1
   },
   "categories": {
     "shoes": {
       "display_name": "Shoes",
-      "count": 5,
+      "count": 12,
       "subcategories": {
+        "gym shoes": {
+          "display_name": "Gym Shoes",
+          "count": 2
+        },
+        "walking shoes": {
+          "display_name": "Walking Shoes",
+          "count": 5
+        },
         "running shoes": {
           "display_name": "Running Shoes",
           "count": 5
         }
       },
       "products": [
+        "Abboos-Athletic-Comfortable-Lightweight-Sneakers",
+        "DUOYANGJIASHA-Womens-Sneakers-Tennis-Running",
+        "Feethit-Lightweight-Breathable-Comfortable-Sneakers",
+        "HKR-Walking-Platform-Sneakers",
         "RBX_Active_Men?s_Airy_Mesh_Athletic_Sneaker",
         "RBX_Active_Unisex_Adult_Athletic_Shoe",
         "RBX_Active_Women?s_Athletic_Sneaker",
         "RBX_Active_Women?s_Slip_On_Athletic_Training_Shoe",
-        "RBX_Active_Women?s_Training_Shoe"
+        "RBX_Active_Women?s_Training_Shoe",
+        "RJYWGS-Walking-Sneakers-Athletic-AllBlack",
+        "SERNIAL-Womens-Leather-Sneakers-Walking",
+        "SHULOOK-Lightweight-Breathable-Non-Slip-Sneakers"
       ],
-      "avg_rating": 4,
-      "avg_price": 36.84
+      "avg_rating": 4.1,
+      "avg_price": 30.94
     }
   }
 }
