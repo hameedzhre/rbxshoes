@@ -1,20 +1,64 @@
 {
   "metadata": {
-    "generated_at": "2026-01-31T18:10:58.784Z",
-    "total_products": 5,
-    "last_updated": "2026-01-31T18:10:58.784Z",
+    "generated_at": "2026-02-01T18:55:02.252Z",
+    "total_products": 12,
+    "last_updated": "2026-02-01T18:55:02.252Z",
     "format_version": "1.1"
   },
   "categories": {
     "shoes": {
-      "count": 5,
+      "count": 12,
       "subcategories": {
+        "gym shoes": {
+          "count": 2,
+          "display_name": "Gym Shoes"
+        },
+        "walking shoes": {
+          "count": 5,
+          "display_name": "Walking Shoes"
+        },
         "running shoes": {
           "count": 5,
           "display_name": "Running Shoes"
         }
       },
       "products": [
+        {
+          "sku": "Abboos-Athletic-Comfortable-Lightweight-Sneakers",
+          "name": "Abboos Womens Slip On Sneakers Women Walking Tennis Shoes Lightweight Casual Sneakers for Gym Travel Work",
+          "brand": "Abboos",
+          "subcategory": "Gym Shoes",
+          "price": "24.88",
+          "rating": 4.3,
+          "slug": "Abboos-Athletic-Comfortable-Lightweight-Sneakers"
+        },
+        {
+          "sku": "DUOYANGJIASHA-Womens-Sneakers-Tennis-Running",
+          "name": "DUOYANGJIASHA Womens Sneakers Walking Shoes Comfortable Non Slip Tennis Shoes Breathable Lightweight Footwear for Casual Work",
+          "brand": "DUOYANGJIASHA",
+          "subcategory": "Walking Shoes",
+          "price": "24.49",
+          "rating": 4.2,
+          "slug": "DUOYANGJIASHA-Womens-Sneakers-Tennis-Running"
+        },
+        {
+          "sku": "Feethit-Lightweight-Breathable-Comfortable-Sneakers",
+          "name": "Feethit Mens Non Slip Walking Sneakers Lightweight Breathable Slip on Running Shoes Athletic Gym Tennis Shoes for Men",
+          "brand": "Feethit",
+          "subcategory": "Gym Shoes",
+          "price": "32.65",
+          "rating": 4.3,
+          "slug": "Feethit-Lightweight-Breathable-Comfortable-Sneakers"
+        },
+        {
+          "sku": "HKR-Walking-Platform-Sneakers",
+          "name": "HKR Women's Walking Shoes Arch Support Non Slip Work Shoes Breathable Knit Upper Lightweight for Plantar Fasciitis",
+          "brand": "HKR",
+          "subcategory": "Walking Shoes",
+          "price": "38.44",
+          "rating": 4,
+          "slug": "HKR-Walking-Platform-Sneakers"
+        },
         {
           "sku": "RBX_Active_Men?s_Airy_Mesh_Athletic_Sneaker",
           "name": "RBX Active Men's Airy Mesh Athletic Sneaker, Lightweight Running Training Shoe",
@@ -59,12 +103,91 @@
           "price": "36.00",
           "rating": 4.2,
           "slug": "RBX_Active_Women?s_Training_Shoe"
+        },
+        {
+          "sku": "RJYWGS-Walking-Sneakers-Athletic-AllBlack",
+          "name": "Slip-On Walking Running Shoes Tennis Sneakers Lightweight Breathable Mesh Gym Work Casual Fashion Comfort Summer Sports Sandals&Athletic Shoes",
+          "brand": "RJYWGS",
+          "subcategory": "Walking Shoes",
+          "price": "17.49",
+          "rating": 4,
+          "slug": "RJYWGS-Walking-Sneakers-Athletic-AllBlack"
+        },
+        {
+          "sku": "SERNIAL-Womens-Leather-Sneakers-Walking",
+          "name": "SERNIAL Womens White Tennis Shoes PU Leather Sneakers Casual Walking Shoes for Women",
+          "brand": "SERNIAL",
+          "subcategory": "Walking Shoes",
+          "price": "29.69",
+          "rating": 4.2,
+          "slug": "SERNIAL-Womens-Leather-Sneakers-Walking"
+        },
+        {
+          "sku": "SHULOOK-Lightweight-Breathable-Non-Slip-Sneakers",
+          "name": "SHULOOK Womens Slip on Walking Shoes Comfort Lightweight Breathable Sock Shoe Non-Slip Mesh Casual Fashion Tennis Running Sneakers",
+          "brand": "SHULOOK",
+          "subcategory": "Walking Shoes",
+          "price": "19.41",
+          "rating": 4.3,
+          "slug": "SHULOOK-Lightweight-Breathable-Non-Slip-Sneakers"
         }
       ],
       "display_name": "Shoes"
     }
   },
   "brands": {
+    "abboos": {
+      "count": 1,
+      "products": [
+        {
+          "sku": "Abboos-Athletic-Comfortable-Lightweight-Sneakers",
+          "name": "Abboos Womens Slip On Sneakers Women Walking Tennis Shoes Lightweight Casual Sneakers for Gym Travel Work",
+          "category": "Shoes",
+          "price": "24.88",
+          "rating": 4.3
+        }
+      ],
+      "display_name": "Abboos"
+    },
+    "duoyangjiasha": {
+      "count": 1,
+      "products": [
+        {
+          "sku": "DUOYANGJIASHA-Womens-Sneakers-Tennis-Running",
+          "name": "DUOYANGJIASHA Womens Sneakers Walking Shoes Comfortable Non Slip Tennis Shoes Breathable Lightweight Footwear for Casual Work",
+          "category": "Shoes",
+          "price": "24.49",
+          "rating": 4.2
+        }
+      ],
+      "display_name": "DUOYANGJIASHA"
+    },
+    "feethit": {
+      "count": 1,
+      "products": [
+        {
+          "sku": "Feethit-Lightweight-Breathable-Comfortable-Sneakers",
+          "name": "Feethit Mens Non Slip Walking Sneakers Lightweight Breathable Slip on Running Shoes Athletic Gym Tennis Shoes for Men",
+          "category": "Shoes",
+          "price": "32.65",
+          "rating": 4.3
+        }
+      ],
+      "display_name": "Feethit"
+    },
+    "hkr": {
+      "count": 1,
+      "products": [
+        {
+          "sku": "HKR-Walking-Platform-Sneakers",
+          "name": "HKR Women's Walking Shoes Arch Support Non Slip Work Shoes Breathable Knit Upper Lightweight for Plantar Fasciitis",
+          "category": "Shoes",
+          "price": "38.44",
+          "rating": 4
+        }
+      ],
+      "display_name": "HKR"
+    },
     "rbx": {
       "count": 5,
       "products": [
@@ -105,16 +228,63 @@
         }
       ],
       "display_name": "RBX"
+    },
+    "rjywgs": {
+      "count": 1,
+      "products": [
+        {
+          "sku": "RJYWGS-Walking-Sneakers-Athletic-AllBlack",
+          "name": "Slip-On Walking Running Shoes Tennis Sneakers Lightweight Breathable Mesh Gym Work Casual Fashion Comfort Summer Sports Sandals&Athletic Shoes",
+          "category": "Shoes",
+          "price": "17.49",
+          "rating": 4
+        }
+      ],
+      "display_name": "RJYWGS"
+    },
+    "sernial": {
+      "count": 1,
+      "products": [
+        {
+          "sku": "SERNIAL-Womens-Leather-Sneakers-Walking",
+          "name": "SERNIAL Womens White Tennis Shoes PU Leather Sneakers Casual Walking Shoes for Women",
+          "category": "Shoes",
+          "price": "29.69",
+          "rating": 4.2
+        }
+      ],
+      "display_name": "SERNIAL"
+    },
+    "shulook": {
+      "count": 1,
+      "products": [
+        {
+          "sku": "SHULOOK-Lightweight-Breathable-Non-Slip-Sneakers",
+          "name": "SHULOOK Womens Slip on Walking Shoes Comfort Lightweight Breathable Sock Shoe Non-Slip Mesh Casual Fashion Tennis Running Sneakers",
+          "category": "Shoes",
+          "price": "19.41",
+          "rating": 4.3
+        }
+      ],
+      "display_name": "SHULOOK"
     }
   },
   "price_ranges": {
-    "under_20": [],
+    "under_20": [
+      "RJYWGS-Walking-Sneakers-Athletic-AllBlack",
+      "SHULOOK-Lightweight-Breathable-Non-Slip-Sneakers"
+    ],
     "20_50": [
+      "Abboos-Athletic-Comfortable-Lightweight-Sneakers",
+      "DUOYANGJIASHA-Womens-Sneakers-Tennis-Running",
+      "Feethit-Lightweight-Breathable-Comfortable-Sneakers",
+      "HKR-Walking-Platform-Sneakers",
       "RBX_Active_Men?s_Airy_Mesh_Athletic_Sneaker",
       "RBX_Active_Unisex_Adult_Athletic_Shoe",
       "RBX_Active_Women?s_Athletic_Sneaker",
       "RBX_Active_Women?s_Slip_On_Athletic_Training_Shoe",
-      "RBX_Active_Women?s_Training_Shoe"
+      "RBX_Active_Women?s_Training_Shoe",
+      "SERNIAL-Womens-Leather-Sneakers-Walking"
     ],
     "50_100": [],
     "over_100": []
@@ -122,9 +292,16 @@
   "rating_ranges": {
     "5_star": [],
     "4_5_star": [
+      "Abboos-Athletic-Comfortable-Lightweight-Sneakers",
+      "DUOYANGJIASHA-Womens-Sneakers-Tennis-Running",
+      "Feethit-Lightweight-Breathable-Comfortable-Sneakers",
+      "HKR-Walking-Platform-Sneakers",
       "RBX_Active_Men?s_Airy_Mesh_Athletic_Sneaker",
       "RBX_Active_Unisex_Adult_Athletic_Shoe",
-      "RBX_Active_Women?s_Training_Shoe"
+      "RBX_Active_Women?s_Training_Shoe",
+      "RJYWGS-Walking-Sneakers-Athletic-AllBlack",
+      "SERNIAL-Womens-Leather-Sneakers-Walking",
+      "SHULOOK-Lightweight-Breathable-Non-Slip-Sneakers"
     ],
     "4_star": [
       "RBX_Active_Women?s_Athletic_Sneaker",
@@ -135,6 +312,46 @@
     "below_3": []
   },
   "by_sku": {
+    "Abboos-Athletic-Comfortable-Lightweight-Sneakers": {
+      "name": "Abboos Womens Slip On Sneakers Women Walking Tennis Shoes Lightweight Casual Sneakers for Gym Travel Work",
+      "brand": "Abboos",
+      "category": "Shoes",
+      "subcategory": "Gym Shoes",
+      "price": "24.88",
+      "rating": 4.3,
+      "slug": "Abboos-Athletic-Comfortable-Lightweight-Sneakers",
+      "image_count": 23
+    },
+    "DUOYANGJIASHA-Womens-Sneakers-Tennis-Running": {
+      "name": "DUOYANGJIASHA Womens Sneakers Walking Shoes Comfortable Non Slip Tennis Shoes Breathable Lightweight Footwear for Casual Work",
+      "brand": "DUOYANGJIASHA",
+      "category": "Shoes",
+      "subcategory": "Walking Shoes",
+      "price": "24.49",
+      "rating": 4.2,
+      "slug": "DUOYANGJIASHA-Womens-Sneakers-Tennis-Running",
+      "image_count": 17
+    },
+    "Feethit-Lightweight-Breathable-Comfortable-Sneakers": {
+      "name": "Feethit Mens Non Slip Walking Sneakers Lightweight Breathable Slip on Running Shoes Athletic Gym Tennis Shoes for Men",
+      "brand": "Feethit",
+      "category": "Shoes",
+      "subcategory": "Gym Shoes",
+      "price": "32.65",
+      "rating": 4.3,
+      "slug": "Feethit-Lightweight-Breathable-Comfortable-Sneakers",
+      "image_count": 12
+    },
+    "HKR-Walking-Platform-Sneakers": {
+      "name": "HKR Women's Walking Shoes Arch Support Non Slip Work Shoes Breathable Knit Upper Lightweight for Plantar Fasciitis",
+      "brand": "HKR",
+      "category": "Shoes",
+      "subcategory": "Walking Shoes",
+      "price": "38.44",
+      "rating": 4,
+      "slug": "HKR-Walking-Platform-Sneakers",
+      "image_count": 24
+    },
     "RBX_Active_Men?s_Airy_Mesh_Athletic_Sneaker": {
       "name": "RBX Active Men's Airy Mesh Athletic Sneaker, Lightweight Running Training Shoe",
       "brand": "RBX",
@@ -184,27 +401,78 @@
       "rating": 4.2,
       "slug": "RBX_Active_Women?s_Training_Shoe",
       "image_count": 6
+    },
+    "RJYWGS-Walking-Sneakers-Athletic-AllBlack": {
+      "name": "Slip-On Walking Running Shoes Tennis Sneakers Lightweight Breathable Mesh Gym Work Casual Fashion Comfort Summer Sports Sandals&Athletic Shoes",
+      "brand": "RJYWGS",
+      "category": "Shoes",
+      "subcategory": "Walking Shoes",
+      "price": "17.49",
+      "rating": 4,
+      "slug": "RJYWGS-Walking-Sneakers-Athletic-AllBlack",
+      "image_count": 10
+    },
+    "SERNIAL-Womens-Leather-Sneakers-Walking": {
+      "name": "SERNIAL Womens White Tennis Shoes PU Leather Sneakers Casual Walking Shoes for Women",
+      "brand": "SERNIAL",
+      "category": "Shoes",
+      "subcategory": "Walking Shoes",
+      "price": "29.69",
+      "rating": 4.2,
+      "slug": "SERNIAL-Womens-Leather-Sneakers-Walking",
+      "image_count": 5
+    },
+    "SHULOOK-Lightweight-Breathable-Non-Slip-Sneakers": {
+      "name": "SHULOOK Womens Slip on Walking Shoes Comfort Lightweight Breathable Sock Shoe Non-Slip Mesh Casual Fashion Tennis Running Sneakers",
+      "brand": "SHULOOK",
+      "category": "Shoes",
+      "subcategory": "Walking Shoes",
+      "price": "19.41",
+      "rating": 4.3,
+      "slug": "SHULOOK-Lightweight-Breathable-Non-Slip-Sneakers",
+      "image_count": 17
     }
   },
   "by_slug": {
+    "Abboos-Athletic-Comfortable-Lightweight-Sneakers": "Abboos-Athletic-Comfortable-Lightweight-Sneakers",
+    "DUOYANGJIASHA-Womens-Sneakers-Tennis-Running": "DUOYANGJIASHA-Womens-Sneakers-Tennis-Running",
+    "Feethit-Lightweight-Breathable-Comfortable-Sneakers": "Feethit-Lightweight-Breathable-Comfortable-Sneakers",
+    "HKR-Walking-Platform-Sneakers": "HKR-Walking-Platform-Sneakers",
     "RBX_Active_Men?s_Airy_Mesh_Athletic_Sneaker": "RBX_Active_Men?s_Airy_Mesh_Athletic_Sneaker",
     "RBX_Active_Unisex_Adult_Athletic_Shoe": "RBX_Active_Unisex_Adult_Athletic_Shoe",
     "RBX_Active_Women?s_Athletic_Sneaker": "RBX_Active_Women?s_Athletic_Sneaker",
     "RBX_Active_Women?s_Slip_On_Athletic_Training_Shoe": "RBX_Active_Women?s_Slip_On_Athletic_Training_Shoe",
-    "RBX_Active_Women?s_Training_Shoe": "RBX_Active_Women?s_Training_Shoe"
+    "RBX_Active_Women?s_Training_Shoe": "RBX_Active_Women?s_Training_Shoe",
+    "RJYWGS-Walking-Sneakers-Athletic-AllBlack": "RJYWGS-Walking-Sneakers-Athletic-AllBlack",
+    "SERNIAL-Womens-Leather-Sneakers-Walking": "SERNIAL-Womens-Leather-Sneakers-Walking",
+    "SHULOOK-Lightweight-Breathable-Non-Slip-Sneakers": "SHULOOK-Lightweight-Breathable-Non-Slip-Sneakers"
   },
   "sku_list": [
+    "Abboos-Athletic-Comfortable-Lightweight-Sneakers",
+    "DUOYANGJIASHA-Womens-Sneakers-Tennis-Running",
+    "Feethit-Lightweight-Breathable-Comfortable-Sneakers",
+    "HKR-Walking-Platform-Sneakers",
     "RBX_Active_Men?s_Airy_Mesh_Athletic_Sneaker",
     "RBX_Active_Unisex_Adult_Athletic_Shoe",
     "RBX_Active_Women?s_Athletic_Sneaker",
     "RBX_Active_Women?s_Slip_On_Athletic_Training_Shoe",
-    "RBX_Active_Women?s_Training_Shoe"
+    "RBX_Active_Women?s_Training_Shoe",
+    "RJYWGS-Walking-Sneakers-Athletic-AllBlack",
+    "SERNIAL-Womens-Leather-Sneakers-Walking",
+    "SHULOOK-Lightweight-Breathable-Non-Slip-Sneakers"
   ],
   "slug_list": [
+    "Abboos-Athletic-Comfortable-Lightweight-Sneakers",
+    "DUOYANGJIASHA-Womens-Sneakers-Tennis-Running",
+    "Feethit-Lightweight-Breathable-Comfortable-Sneakers",
+    "HKR-Walking-Platform-Sneakers",
     "RBX_Active_Men?s_Airy_Mesh_Athletic_Sneaker",
     "RBX_Active_Unisex_Adult_Athletic_Shoe",
     "RBX_Active_Women?s_Athletic_Sneaker",
     "RBX_Active_Women?s_Slip_On_Athletic_Training_Shoe",
-    "RBX_Active_Women?s_Training_Shoe"
+    "RBX_Active_Women?s_Training_Shoe",
+    "RJYWGS-Walking-Sneakers-Athletic-AllBlack",
+    "SERNIAL-Womens-Leather-Sneakers-Walking",
+    "SHULOOK-Lightweight-Breathable-Non-Slip-Sneakers"
   ]
 }
