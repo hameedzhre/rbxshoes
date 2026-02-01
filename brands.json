@@ -1,9 +1,69 @@
 {
   "metadata": {
-    "generated_at": "2026-01-31T18:11:00.237Z",
-    "total_brands": 1
+    "generated_at": "2026-02-01T18:55:03.532Z",
+    "total_brands": 8
   },
   "brands": {
+    "abboos": {
+      "display_name": "Abboos",
+      "count": 1,
+      "products": [
+        "Abboos-Athletic-Comfortable-Lightweight-Sneakers"
+      ],
+      "avg_rating": 4.3,
+      "avg_price": 24.88,
+      "categories": {
+        "shoes": {
+          "display_name": "Shoes",
+          "count": 1
+        }
+      }
+    },
+    "duoyangjiasha": {
+      "display_name": "DUOYANGJIASHA",
+      "count": 1,
+      "products": [
+        "DUOYANGJIASHA-Womens-Sneakers-Tennis-Running"
+      ],
+      "avg_rating": 4.2,
+      "avg_price": 24.49,
+      "categories": {
+        "shoes": {
+          "display_name": "Shoes",
+          "count": 1
+        }
+      }
+    },
+    "feethit": {
+      "display_name": "Feethit",
+      "count": 1,
+      "products": [
+        "Feethit-Lightweight-Breathable-Comfortable-Sneakers"
+      ],
+      "avg_rating": 4.3,
+      "avg_price": 32.65,
+      "categories": {
+        "shoes": {
+          "display_name": "Shoes",
+          "count": 1
+        }
+      }
+    },
+    "hkr": {
+      "display_name": "HKR",
+      "count": 1,
+      "products": [
+        "HKR-Walking-Platform-Sneakers"
+      ],
+      "avg_rating": 4,
+      "avg_price": 38.44,
+      "categories": {
+        "shoes": {
+          "display_name": "Shoes",
+          "count": 1
+        }
+      }
+    },
     "rbx": {
       "display_name": "RBX",
       "count": 5,
@@ -20,6 +80,51 @@
         "shoes": {
           "display_name": "Shoes",
           "count": 5
+        }
+      }
+    },
+    "rjywgs": {
+      "display_name": "RJYWGS",
+      "count": 1,
+      "products": [
+        "RJYWGS-Walking-Sneakers-Athletic-AllBlack"
+      ],
+      "avg_rating": 4,
+      "avg_price": 17.49,
+      "categories": {
+        "shoes": {
+          "display_name": "Shoes",
+          "count": 1
+        }
+      }
+    },
+    "sernial": {
+      "display_name": "SERNIAL",
+      "count": 1,
+      "products": [
+        "SERNIAL-Womens-Leather-Sneakers-Walking"
+      ],
+      "avg_rating": 4.2,
+      "avg_price": 29.69,
+      "categories": {
+        "shoes": {
+          "display_name": "Shoes",
+          "count": 1
+        }
+      }
+    },
+    "shulook": {
+      "display_name": "SHULOOK",
+      "count": 1,
+      "products": [
+        "SHULOOK-Lightweight-Breathable-Non-Slip-Sneakers"
+      ],
+      "avg_rating": 4.3,
+      "avg_price": 19.41,
+      "categories": {
+        "shoes": {
+          "display_name": "Shoes",
+          "count": 1
         }
       }
     }
