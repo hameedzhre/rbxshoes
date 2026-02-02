@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "generated_at": "2026-02-02T03:12:17.193Z",
+    "generated_at": "2026-02-02T06:30:25.916Z",
     "total_products": 19,
-    "last_sync": "2026-02-02T03:12:17.193Z",
+    "last_sync": "2026-02-02T06:30:25.916Z",
     "format_version": "1.1",
     "categories_count": 3,
     "brands_count": 15
@@ -15,7 +15,7 @@
       "brand_name": "Abboos",
       "category": "Shoes",
       "subcategory": "Gym Shoes",
-      "gender": "woman",
+      "gender": "Women",
       "amazon_url": "https://amzn.to/3Z8HtFV",
       "price_min": 20.7,
       "price_max": 29.06,
@@ -58,7 +58,7 @@
         "https://m.media-amazon.com/images/I/711SC-isaaL._AC_SY625_.jpg",
         "https://m.media-amazon.com/images/I/81UMWkfeACL._AC_SY625_.jpg"
       ],
-      "last_updated": "2026-02-02T03:12:17.172Z",
+      "last_updated": "2026-02-02T06:30:25.858Z",
       "average_price": "24.88"
     },
     {
@@ -68,7 +68,7 @@
       "brand_name": "adidas",
       "category": "Shoes",
       "subcategory": "Walking Shoes",
-      "gender": "woman",
+      "gender": "Women",
       "amazon_url": "https://amzn.to/4kgujjN",
       "price_min": 26.69,
       "price_max": 70,
@@ -105,7 +105,7 @@
         "https://m.media-amazon.com/images/I/61UFFPyJgwL._AC_SY625_.jpg",
         "https://m.media-amazon.com/images/I/71ecwpNpjpL._AC_SY625_.jpg"
       ],
-      "last_updated": "2026-02-02T03:12:17.173Z",
+      "last_updated": "2026-02-02T06:30:25.858Z",
       "average_price": "48.34"
     },
     {
@@ -114,8 +114,8 @@
       "product_name": "ANTA-Cushioning-Comfortable-Breathable-Athletic",
       "brand_name": "ANTA",
       "category": "shoes",
-      "subcategory": "GYM",
-      "gender": "MAN",
+      "subcategory": "Gym Shoes",
+      "gender": "Men",
       "amazon_url": "https://amzn.to/4aaJKW6",
       "price_min": 79.99,
       "price_max": 74.99,
@@ -144,7 +144,7 @@
         "https://m.media-amazon.com/images/I/71UmBKxMJqL._AC_SY500_.jpg",
         "https://m.media-amazon.com/images/I/711TJYiHAhL._AC_SY500_.jpg"
       ],
-      "last_updated": "2026-02-02T03:12:17.173Z",
+      "last_updated": "2026-02-02T06:30:25.859Z",
       "average_price": "77.49"
     },
     {
@@ -153,8 +153,8 @@
       "product_name": "Damyuan Mens Lightweight Athletic Running Walking Gym Shoes Casual Sports Shoes Fashion Sneakers Walking Shoes",
       "brand_name": "DAMYUAN",
       "category": "SHOES",
-      "subcategory": "GYM",
-      "gender": "MAN",
+      "subcategory": "Gym Shoes",
+      "gender": "Men",
       "amazon_url": "https://amzn.to/46dIDDM",
       "price_min": 36.99,
       "price_max": 19.99,
@@ -187,7 +187,7 @@
         "https://m.media-amazon.com/images/I/71T0K66YQAL._AC_SY500_.jpg",
         "https://m.media-amazon.com/images/I/81Dcz8AT5lL._AC_SY500_.jpg"
       ],
-      "last_updated": "2026-02-02T03:12:17.173Z",
+      "last_updated": "2026-02-02T06:30:25.859Z",
       "average_price": "28.49"
     },
     {
@@ -196,8 +196,8 @@
       "product_name": "DOUSSPRT Womens Walking Shoes Slip on Sock Sneakers Lady Girls Nurse Mesh Air Cushion Platform Loafers Fashion Casual",
       "brand_name": "DOUSSPRT",
       "category": "SHOES",
-      "subcategory": "WALKING",
-      "gender": "WOMAN",
+      "subcategory": "Walking Shoes",
+      "gender": "Women",
       "amazon_url": "https://amzn.to/4taaiPM",
       "price_min": 33.99,
       "price_max": 34.99,
@@ -228,7 +228,7 @@
         "https://m.media-amazon.com/images/I/91QmMnZNUlL._AC_SY500_.jpg",
         "https://m.media-amazon.com/images/I/91dQGA+C9KL._AC_SX500_.jpg"
       ],
-      "last_updated": "2026-02-02T03:12:17.173Z",
+      "last_updated": "2026-02-02T06:30:25.859Z",
       "average_price": "34.49"
     },
     {
@@ -238,7 +238,7 @@
       "brand_name": "DUOYANGJIASHA",
       "category": "Shoes",
       "subcategory": "Walking Shoes",
-      "gender": "woman",
+      "gender": "Women",
       "amazon_url": "https://amzn.to/4t9HXcm",
       "price_min": 27.99,
       "price_max": 20.99,
@@ -275,7 +275,7 @@
         "https://m.media-amazon.com/images/I/81a1ZE-yViL._AC_SY625_.jpg",
         "https://m.media-amazon.com/images/I/81-j+5sZdIL._AC_SY625_.jpg"
       ],
-      "last_updated": "2026-02-02T03:12:17.173Z",
+      "last_updated": "2026-02-02T06:30:25.858Z",
       "average_price": "24.49"
     },
     {
@@ -317,7 +317,7 @@
         "https://m.media-amazon.com/images/I/61vKE-TW2UL._AC_SY500_.jpg",
         "https://m.media-amazon.com/images/I/81fvgBicIUL._AC_SY500_.jpg"
       ],
-      "last_updated": "2026-02-02T03:12:17.172Z",
+      "last_updated": "2026-02-02T06:30:25.858Z",
       "average_price": "32.65"
     },
     {
@@ -327,7 +327,7 @@
       "brand_name": "HKR",
       "category": "Shoes",
       "subcategory": "Walking Shoes",
-      "gender": "woman",
+      "gender": "Women",
       "amazon_url": "https://amzn.to/45ExvQb",
       "price_min": 37.99,
       "price_max": 38.89,
@@ -372,7 +372,7 @@
         "https://m.media-amazon.com/images/I/81drj3F8ZGL._AC_SY625_.jpg",
         "https://m.media-amazon.com/images/I/81hdpTpR8dL._AC_SY625_.jpg"
       ],
-      "last_updated": "2026-02-02T03:12:17.173Z",
+      "last_updated": "2026-02-02T06:30:25.858Z",
       "average_price": "38.44"
     },
     {
@@ -382,7 +382,7 @@
       "brand_name": "MCRONJI",
       "category": "Shoes",
       "subcategory": "Walking Shoes",
-      "gender": "woman",
+      "gender": "Women",
       "amazon_url": "https://amzn.to/3OgWDq8",
       "price_min": 15.99,
       "price_max": 19.99,
@@ -419,7 +419,7 @@
         "https://m.media-amazon.com/images/I/71ouF5bK8pL._AC_SY575_.jpg",
         "https://m.media-amazon.com/images/I/717BExkHNVL._AC_SY575_.jpg"
       ],
-      "last_updated": "2026-02-02T03:12:17.173Z",
+      "last_updated": "2026-02-02T06:30:25.859Z",
       "average_price": "17.99"
     },
     {
@@ -464,7 +464,7 @@
         "https://m.media-amazon.com/images/I/81vF+OaHszL._AC_SY695_.jpg",
         "https://m.media-amazon.com/images/I/81a4znel9UL._AC_SY695_.jpg"
       ],
-      "last_updated": "2026-02-02T03:12:17.172Z",
+      "last_updated": "2026-02-02T06:30:25.858Z",
       "average_price": "44.40"
     },
     {
@@ -512,7 +512,7 @@
         "https://m.media-amazon.com/images/I/619ShUNqr-L._AC_SY695_.jpg",
         "https://m.media-amazon.com/images/I/81+9lLXUWVL._AC_SY695_.jpg"
       ],
-      "last_updated": "2026-02-02T03:12:17.172Z",
+      "last_updated": "2026-02-02T06:30:25.857Z",
       "average_price": "34.95"
     },
     {
@@ -566,7 +566,7 @@
         "https://m.media-amazon.com/images/I/713EwqZ8a7L._AC_SY695_.jpg",
         "https://m.media-amazon.com/images/I/81C8A-lL7FL._AC_SY695_.jpg"
       ],
-      "last_updated": "2026-02-02T03:12:17.172Z",
+      "last_updated": "2026-02-02T06:30:25.857Z",
       "average_price": "33.95"
     },
     {
@@ -609,7 +609,7 @@
         "https://m.media-amazon.com/images/I/817RtLuVlML._AC_SY695_.jpg",
         "https://m.media-amazon.com/images/I/81GOGt6woQL._AC_SY695_.jpg"
       ],
-      "last_updated": "2026-02-02T03:12:17.172Z",
+      "last_updated": "2026-02-02T06:30:25.858Z",
       "average_price": "34.90"
     },
     {
@@ -645,7 +645,7 @@
         "https://m.media-amazon.com/images/I/41NJMvE2Q0L._AC_SY695_.jpg",
         "https://m.media-amazon.com/images/I/51zaU-Z8HzL._AC_SY695_.jpg"
       ],
-      "last_updated": "2026-02-02T03:12:17.171Z",
+      "last_updated": "2026-02-02T06:30:25.857Z",
       "average_price": "36.00"
     },
     {
@@ -655,7 +655,7 @@
       "brand_name": "RJYWGS",
       "category": "Shoes",
       "subcategory": "Walking Shoes",
-      "gender": "woman",
+      "gender": "Women",
       "amazon_url": "https://amzn.to/49U6Y3X",
       "price_min": 16.99,
       "price_max": 17.99,
@@ -685,7 +685,7 @@
         "https://m.media-amazon.com/images/I/81jU9vfKkeL._AC_SY625_.jpg",
         "https://m.media-amazon.com/images/I/71MH+j87gAL._AC_SY625_.jpg"
       ],
-      "last_updated": "2026-02-02T03:12:17.173Z",
+      "last_updated": "2026-02-02T06:30:25.858Z",
       "average_price": "17.49"
     },
     {
@@ -695,7 +695,7 @@
       "brand_name": "SERNIAL",
       "category": "Shoes",
       "subcategory": "Walking Shoes",
-      "gender": "woman",
+      "gender": "Women",
       "amazon_url": "https://amzn.to/4qT85XH",
       "price_min": 23.39,
       "price_max": 35.99,
@@ -720,7 +720,7 @@
         "https://m.media-amazon.com/images/I/81+RDxkBTeL._AC_SY500_.jpg",
         "https://m.media-amazon.com/images/I/614Wu5nXEML._AC_SY500_.jpg"
       ],
-      "last_updated": "2026-02-02T03:12:17.172Z",
+      "last_updated": "2026-02-02T06:30:25.858Z",
       "average_price": "29.69"
     },
     {
@@ -730,7 +730,7 @@
       "brand_name": "SHULOOK",
       "category": "Shoes",
       "subcategory": "Walking Shoes",
-      "gender": "woman",
+      "gender": "Women",
       "amazon_url": "https://amzn.to/4thQElg",
       "price_min": 16.99,
       "price_max": 21.84,
@@ -767,7 +767,7 @@
         "https://m.media-amazon.com/images/I/71E3xNmsm0L._AC_SY625_.jpg",
         "https://m.media-amazon.com/images/I/71f8Ai9FOpL._AC_SY625_.jpg"
       ],
-      "last_updated": "2026-02-02T03:12:17.173Z",
+      "last_updated": "2026-02-02T06:30:25.858Z",
       "average_price": "19.41"
     },
     {
@@ -776,8 +776,8 @@
       "product_name": "Skechers Women's Squad SR Food Service Shoes",
       "brand_name": "SKECHERS",
       "category": "SHOES",
-      "subcategory": "GYM",
-      "gender": "WOMAN",
+      "subcategory": "Gym Shoes",
+      "gender": "Women",
       "amazon_url": "https://amzn.to/45Grp1H",
       "price_min": 56,
       "price_max": 56,
@@ -805,7 +805,7 @@
         "https://m.media-amazon.com/images/I/71sZn-y-2hL._AC_SX500_.jpg",
         "https://m.media-amazon.com/images/I/71HJYyGo4pL._AC_SX500_.jpg"
       ],
-      "last_updated": "2026-02-02T03:12:17.173Z",
+      "last_updated": "2026-02-02T06:30:25.859Z",
       "average_price": "56.00"
     },
     {
@@ -814,8 +814,8 @@
       "product_name": "STQ Walking Shoes Women Slip on Sneakers Non Slip Work Arch Support Tennis Plantar Fasciitis Orthopedic Breathable Mesh Comfortable Ladies Nursing",
       "brand_name": "STQ",
       "category": "SHOES",
-      "subcategory": "WALKING",
-      "gender": "WOMAN",
+      "subcategory": "Walking Shoes",
+      "gender": "Women",
       "amazon_url": "https://amzn.to/3ZcSq9i",
       "price_min": 38.89,
       "price_max": 30.59,
@@ -847,7 +847,7 @@
         "https://m.media-amazon.com/images/I/71yW57y4ZqL._AC_SY500_.jpg",
         "https://m.media-amazon.com/images/I/71cNdUgCC1L._AC_SY500_.jpg"
       ],
-      "last_updated": "2026-02-02T03:12:17.173Z",
+      "last_updated": "2026-02-02T06:30:25.859Z",
       "average_price": "34.74"
     }
   ]
