@@ -1,21 +1,29 @@
 {
   "metadata": {
-    "generated_at": "2026-02-01T18:55:02.252Z",
-    "total_products": 12,
-    "last_updated": "2026-02-01T18:55:02.252Z",
+    "generated_at": "2026-02-02T03:12:18.071Z",
+    "total_products": 19,
+    "last_updated": "2026-02-02T03:12:18.071Z",
     "format_version": "1.1"
   },
   "categories": {
     "shoes": {
-      "count": 12,
+      "count": 19,
       "subcategories": {
         "gym shoes": {
           "count": 2,
           "display_name": "Gym Shoes"
         },
         "walking shoes": {
-          "count": 5,
+          "count": 7,
           "display_name": "Walking Shoes"
+        },
+        "gym": {
+          "count": 3,
+          "display_name": "GYM"
+        },
+        "walking": {
+          "count": 2,
+          "display_name": "WALKING"
         },
         "running shoes": {
           "count": 5,
@@ -31,6 +39,42 @@
           "price": "24.88",
           "rating": 4.3,
           "slug": "Abboos-Athletic-Comfortable-Lightweight-Sneakers"
+        },
+        {
+          "sku": "adidas-Womens-Turnaround-Sneaker-Ivory",
+          "name": "adidas Women's Break Start Shoe",
+          "brand": "adidas",
+          "subcategory": "Walking Shoes",
+          "price": "48.34",
+          "rating": 4.4,
+          "slug": "adidas-Womens-Turnaround-Sneaker-Ivory"
+        },
+        {
+          "sku": "ANTA-Cushioning-Comfortable-Breathable-Athletic",
+          "name": "ANTA-Cushioning-Comfortable-Breathable-Athletic",
+          "brand": "ANTA",
+          "subcategory": "GYM",
+          "price": "77.49",
+          "rating": 4.5,
+          "slug": "[Night-time Safety] Complete with reflective strips, these sneakers increase your visibility during activities at night or in low-light conditions. Allowing you to take safe and confident steps"
+        },
+        {
+          "sku": "Damyuan-Lightweight-Athletic-Running-Sneakers",
+          "name": "Damyuan Mens Lightweight Athletic Running Walking Gym Shoes Casual Sports Shoes Fashion Sneakers Walking Shoes",
+          "brand": "DAMYUAN",
+          "subcategory": "GYM",
+          "price": "28.49",
+          "rating": 4,
+          "slug": "Applicable occasions: jogging, running, fitness, walking, outdoor and other sports"
+        },
+        {
+          "sku": "DOUSSPRT-Walking-Sneakers-Cushion-Platform",
+          "name": "DOUSSPRT Womens Walking Shoes Slip on Sock Sneakers Lady Girls Nurse Mesh Air Cushion Platform Loafers Fashion Casual",
+          "brand": "DOUSSPRT",
+          "subcategory": "WALKING",
+          "price": "34.49",
+          "rating": 4.2,
+          "slug": "5.OCCASION: work,walking,casual,floor shoes,plantar ,long standing,fasciitis,nursing,fishing,gardening,shopping,travel,driving,jazz,tap dance,street jazz,ballet,folk dance,zumba,athletic."
         },
         {
           "sku": "DUOYANGJIASHA-Womens-Sneakers-Tennis-Running",
@@ -58,6 +102,15 @@
           "price": "38.44",
           "rating": 4,
           "slug": "HKR-Walking-Platform-Sneakers"
+        },
+        {
+          "sku": "MCRONJI-Barefoot-Minimalist-Running-Sneakers",
+          "name": "Barefoot Water Shoes, Minimalist Running Sneakers, Beach Outdoor Shoes, Men and Women",
+          "brand": "MCRONJI",
+          "subcategory": "Walking Shoes",
+          "price": "17.99",
+          "rating": 4.5,
+          "slug": "MCRONJI-Barefoot-Minimalist-Running-Sneakers"
         },
         {
           "sku": "RBX_Active_Men?s_Airy_Mesh_Athletic_Sneaker",
@@ -130,6 +183,24 @@
           "price": "19.41",
           "rating": 4.3,
           "slug": "SHULOOK-Lightweight-Breathable-Non-Slip-Sneakers"
+        },
+        {
+          "sku": "Skechers-Womens-Squad-Service-black",
+          "name": "Skechers Women's Squad SR Food Service Shoes",
+          "brand": "SKECHERS",
+          "subcategory": "GYM",
+          "price": "56.00",
+          "rating": 4.4,
+          "slug": "RELIABLE TRACTION: Flexible slip resistant work shoes for women with tested traction outsole for confident stability"
+        },
+        {
+          "sku": "STQ-Walking-Comfortable-Athletic-Sneakers",
+          "name": "STQ Walking Shoes Women Slip on Sneakers Non Slip Work Arch Support Tennis Plantar Fasciitis Orthopedic Breathable Mesh Comfortable Ladies Nursing",
+          "brand": "STQ",
+          "subcategory": "WALKING",
+          "price": "34.74",
+          "rating": 4.1,
+          "slug": "Occasion ]: Everyday walking shoes for women, you can use it as your daily shoes, such as walking, long time standing, work, food service, coffee shop, dessert store, nursing, shopping, traveling, casual indoor and outdoor activities"
         }
       ],
       "display_name": "Shoes"
@@ -148,6 +219,58 @@
         }
       ],
       "display_name": "Abboos"
+    },
+    "adidas": {
+      "count": 1,
+      "products": [
+        {
+          "sku": "adidas-Womens-Turnaround-Sneaker-Ivory",
+          "name": "adidas Women's Break Start Shoe",
+          "category": "Shoes",
+          "price": "48.34",
+          "rating": 4.4
+        }
+      ],
+      "display_name": "adidas"
+    },
+    "anta": {
+      "count": 1,
+      "products": [
+        {
+          "sku": "ANTA-Cushioning-Comfortable-Breathable-Athletic",
+          "name": "ANTA-Cushioning-Comfortable-Breathable-Athletic",
+          "category": "shoes",
+          "price": "77.49",
+          "rating": 4.5
+        }
+      ],
+      "display_name": "ANTA"
+    },
+    "damyuan": {
+      "count": 1,
+      "products": [
+        {
+          "sku": "Damyuan-Lightweight-Athletic-Running-Sneakers",
+          "name": "Damyuan Mens Lightweight Athletic Running Walking Gym Shoes Casual Sports Shoes Fashion Sneakers Walking Shoes",
+          "category": "SHOES",
+          "price": "28.49",
+          "rating": 4
+        }
+      ],
+      "display_name": "DAMYUAN"
+    },
+    "doussprt": {
+      "count": 1,
+      "products": [
+        {
+          "sku": "DOUSSPRT-Walking-Sneakers-Cushion-Platform",
+          "name": "DOUSSPRT Womens Walking Shoes Slip on Sock Sneakers Lady Girls Nurse Mesh Air Cushion Platform Loafers Fashion Casual",
+          "category": "SHOES",
+          "price": "34.49",
+          "rating": 4.2
+        }
+      ],
+      "display_name": "DOUSSPRT"
     },
     "duoyangjiasha": {
       "count": 1,
@@ -187,6 +310,19 @@
         }
       ],
       "display_name": "HKR"
+    },
+    "mcronji": {
+      "count": 1,
+      "products": [
+        {
+          "sku": "MCRONJI-Barefoot-Minimalist-Running-Sneakers",
+          "name": "Barefoot Water Shoes, Minimalist Running Sneakers, Beach Outdoor Shoes, Men and Women",
+          "category": "Shoes",
+          "price": "17.99",
+          "rating": 4.5
+        }
+      ],
+      "display_name": "MCRONJI"
     },
     "rbx": {
       "count": 5,
@@ -267,15 +403,45 @@
         }
       ],
       "display_name": "SHULOOK"
+    },
+    "skechers": {
+      "count": 1,
+      "products": [
+        {
+          "sku": "Skechers-Womens-Squad-Service-black",
+          "name": "Skechers Women's Squad SR Food Service Shoes",
+          "category": "SHOES",
+          "price": "56.00",
+          "rating": 4.4
+        }
+      ],
+      "display_name": "SKECHERS"
+    },
+    "stq": {
+      "count": 1,
+      "products": [
+        {
+          "sku": "STQ-Walking-Comfortable-Athletic-Sneakers",
+          "name": "STQ Walking Shoes Women Slip on Sneakers Non Slip Work Arch Support Tennis Plantar Fasciitis Orthopedic Breathable Mesh Comfortable Ladies Nursing",
+          "category": "SHOES",
+          "price": "34.74",
+          "rating": 4.1
+        }
+      ],
+      "display_name": "STQ"
     }
   },
   "price_ranges": {
     "under_20": [
+      "MCRONJI-Barefoot-Minimalist-Running-Sneakers",
       "RJYWGS-Walking-Sneakers-Athletic-AllBlack",
       "SHULOOK-Lightweight-Breathable-Non-Slip-Sneakers"
     ],
     "20_50": [
       "Abboos-Athletic-Comfortable-Lightweight-Sneakers",
+      "adidas-Womens-Turnaround-Sneaker-Ivory",
+      "Damyuan-Lightweight-Athletic-Running-Sneakers",
+      "DOUSSPRT-Walking-Sneakers-Cushion-Platform",
       "DUOYANGJIASHA-Womens-Sneakers-Tennis-Running",
       "Feethit-Lightweight-Breathable-Comfortable-Sneakers",
       "HKR-Walking-Platform-Sneakers",
@@ -284,15 +450,25 @@
       "RBX_Active_Women?s_Athletic_Sneaker",
       "RBX_Active_Women?s_Slip_On_Athletic_Training_Shoe",
       "RBX_Active_Women?s_Training_Shoe",
-      "SERNIAL-Womens-Leather-Sneakers-Walking"
+      "SERNIAL-Womens-Leather-Sneakers-Walking",
+      "STQ-Walking-Comfortable-Athletic-Sneakers"
     ],
-    "50_100": [],
+    "50_100": [
+      "ANTA-Cushioning-Comfortable-Breathable-Athletic",
+      "Skechers-Womens-Squad-Service-black"
+    ],
     "over_100": []
   },
   "rating_ranges": {
-    "5_star": [],
+    "5_star": [
+      "ANTA-Cushioning-Comfortable-Breathable-Athletic",
+      "MCRONJI-Barefoot-Minimalist-Running-Sneakers"
+    ],
     "4_5_star": [
       "Abboos-Athletic-Comfortable-Lightweight-Sneakers",
+      "adidas-Womens-Turnaround-Sneaker-Ivory",
+      "Damyuan-Lightweight-Athletic-Running-Sneakers",
+      "DOUSSPRT-Walking-Sneakers-Cushion-Platform",
       "DUOYANGJIASHA-Womens-Sneakers-Tennis-Running",
       "Feethit-Lightweight-Breathable-Comfortable-Sneakers",
       "HKR-Walking-Platform-Sneakers",
@@ -301,7 +477,9 @@
       "RBX_Active_Women?s_Training_Shoe",
       "RJYWGS-Walking-Sneakers-Athletic-AllBlack",
       "SERNIAL-Womens-Leather-Sneakers-Walking",
-      "SHULOOK-Lightweight-Breathable-Non-Slip-Sneakers"
+      "SHULOOK-Lightweight-Breathable-Non-Slip-Sneakers",
+      "Skechers-Womens-Squad-Service-black",
+      "STQ-Walking-Comfortable-Athletic-Sneakers"
     ],
     "4_star": [
       "RBX_Active_Women?s_Athletic_Sneaker",
@@ -321,6 +499,46 @@
       "rating": 4.3,
       "slug": "Abboos-Athletic-Comfortable-Lightweight-Sneakers",
       "image_count": 23
+    },
+    "adidas-Womens-Turnaround-Sneaker-Ivory": {
+      "name": "adidas Women's Break Start Shoe",
+      "brand": "adidas",
+      "category": "Shoes",
+      "subcategory": "Walking Shoes",
+      "price": "48.34",
+      "rating": 4.4,
+      "slug": "adidas-Womens-Turnaround-Sneaker-Ivory",
+      "image_count": 17
+    },
+    "ANTA-Cushioning-Comfortable-Breathable-Athletic": {
+      "name": "ANTA-Cushioning-Comfortable-Breathable-Athletic",
+      "brand": "ANTA",
+      "category": "shoes",
+      "subcategory": "GYM",
+      "price": "77.49",
+      "rating": 4.5,
+      "slug": "[Night-time Safety] Complete with reflective strips, these sneakers increase your visibility during activities at night or in low-light conditions. Allowing you to take safe and confident steps",
+      "image_count": 9
+    },
+    "Damyuan-Lightweight-Athletic-Running-Sneakers": {
+      "name": "Damyuan Mens Lightweight Athletic Running Walking Gym Shoes Casual Sports Shoes Fashion Sneakers Walking Shoes",
+      "brand": "DAMYUAN",
+      "category": "SHOES",
+      "subcategory": "GYM",
+      "price": "28.49",
+      "rating": 4,
+      "slug": "Applicable occasions: jogging, running, fitness, walking, outdoor and other sports",
+      "image_count": 13
+    },
+    "DOUSSPRT-Walking-Sneakers-Cushion-Platform": {
+      "name": "DOUSSPRT Womens Walking Shoes Slip on Sock Sneakers Lady Girls Nurse Mesh Air Cushion Platform Loafers Fashion Casual",
+      "brand": "DOUSSPRT",
+      "category": "SHOES",
+      "subcategory": "WALKING",
+      "price": "34.49",
+      "rating": 4.2,
+      "slug": "5.OCCASION: work,walking,casual,floor shoes,plantar ,long standing,fasciitis,nursing,fishing,gardening,shopping,travel,driving,jazz,tap dance,street jazz,ballet,folk dance,zumba,athletic.",
+      "image_count": 11
     },
     "DUOYANGJIASHA-Womens-Sneakers-Tennis-Running": {
       "name": "DUOYANGJIASHA Womens Sneakers Walking Shoes Comfortable Non Slip Tennis Shoes Breathable Lightweight Footwear for Casual Work",
@@ -351,6 +569,16 @@
       "rating": 4,
       "slug": "HKR-Walking-Platform-Sneakers",
       "image_count": 24
+    },
+    "MCRONJI-Barefoot-Minimalist-Running-Sneakers": {
+      "name": "Barefoot Water Shoes, Minimalist Running Sneakers, Beach Outdoor Shoes, Men and Women",
+      "brand": "MCRONJI",
+      "category": "Shoes",
+      "subcategory": "Walking Shoes",
+      "price": "17.99",
+      "rating": 4.5,
+      "slug": "MCRONJI-Barefoot-Minimalist-Running-Sneakers",
+      "image_count": 17
     },
     "RBX_Active_Men?s_Airy_Mesh_Athletic_Sneaker": {
       "name": "RBX Active Men's Airy Mesh Athletic Sneaker, Lightweight Running Training Shoe",
@@ -431,13 +659,38 @@
       "rating": 4.3,
       "slug": "SHULOOK-Lightweight-Breathable-Non-Slip-Sneakers",
       "image_count": 17
+    },
+    "Skechers-Womens-Squad-Service-black": {
+      "name": "Skechers Women's Squad SR Food Service Shoes",
+      "brand": "SKECHERS",
+      "category": "SHOES",
+      "subcategory": "GYM",
+      "price": "56.00",
+      "rating": 4.4,
+      "slug": "RELIABLE TRACTION: Flexible slip resistant work shoes for women with tested traction outsole for confident stability",
+      "image_count": 8
+    },
+    "STQ-Walking-Comfortable-Athletic-Sneakers": {
+      "name": "STQ Walking Shoes Women Slip on Sneakers Non Slip Work Arch Support Tennis Plantar Fasciitis Orthopedic Breathable Mesh Comfortable Ladies Nursing",
+      "brand": "STQ",
+      "category": "SHOES",
+      "subcategory": "WALKING",
+      "price": "34.74",
+      "rating": 4.1,
+      "slug": "Occasion ]: Everyday walking shoes for women, you can use it as your daily shoes, such as walking, long time standing, work, food service, coffee shop, dessert store, nursing, shopping, traveling, casual indoor and outdoor activities",
+      "image_count": 12
     }
   },
   "by_slug": {
     "Abboos-Athletic-Comfortable-Lightweight-Sneakers": "Abboos-Athletic-Comfortable-Lightweight-Sneakers",
+    "adidas-Womens-Turnaround-Sneaker-Ivory": "adidas-Womens-Turnaround-Sneaker-Ivory",
+    "[Night-time Safety] Complete with reflective strips, these sneakers increase your visibility during activities at night or in low-light conditions. Allowing you to take safe and confident steps": "ANTA-Cushioning-Comfortable-Breathable-Athletic",
+    "Applicable occasions: jogging, running, fitness, walking, outdoor and other sports": "Damyuan-Lightweight-Athletic-Running-Sneakers",
+    "5.OCCASION: work,walking,casual,floor shoes,plantar ,long standing,fasciitis,nursing,fishing,gardening,shopping,travel,driving,jazz,tap dance,street jazz,ballet,folk dance,zumba,athletic.": "DOUSSPRT-Walking-Sneakers-Cushion-Platform",
     "DUOYANGJIASHA-Womens-Sneakers-Tennis-Running": "DUOYANGJIASHA-Womens-Sneakers-Tennis-Running",
     "Feethit-Lightweight-Breathable-Comfortable-Sneakers": "Feethit-Lightweight-Breathable-Comfortable-Sneakers",
     "HKR-Walking-Platform-Sneakers": "HKR-Walking-Platform-Sneakers",
+    "MCRONJI-Barefoot-Minimalist-Running-Sneakers": "MCRONJI-Barefoot-Minimalist-Running-Sneakers",
     "RBX_Active_Men?s_Airy_Mesh_Athletic_Sneaker": "RBX_Active_Men?s_Airy_Mesh_Athletic_Sneaker",
     "RBX_Active_Unisex_Adult_Athletic_Shoe": "RBX_Active_Unisex_Adult_Athletic_Shoe",
     "RBX_Active_Women?s_Athletic_Sneaker": "RBX_Active_Women?s_Athletic_Sneaker",
@@ -445,13 +698,19 @@
     "RBX_Active_Women?s_Training_Shoe": "RBX_Active_Women?s_Training_Shoe",
     "RJYWGS-Walking-Sneakers-Athletic-AllBlack": "RJYWGS-Walking-Sneakers-Athletic-AllBlack",
     "SERNIAL-Womens-Leather-Sneakers-Walking": "SERNIAL-Womens-Leather-Sneakers-Walking",
-    "SHULOOK-Lightweight-Breathable-Non-Slip-Sneakers": "SHULOOK-Lightweight-Breathable-Non-Slip-Sneakers"
+    "SHULOOK-Lightweight-Breathable-Non-Slip-Sneakers": "SHULOOK-Lightweight-Breathable-Non-Slip-Sneakers",
+    "RELIABLE TRACTION: Flexible slip resistant work shoes for women with tested traction outsole for confident stability": "Skechers-Womens-Squad-Service-black",
+    "Occasion ]: Everyday walking shoes for women, you can use it as your daily shoes, such as walking, long time standing, work, food service, coffee shop, dessert store, nursing, shopping, traveling, casual indoor and outdoor activities": "STQ-Walking-Comfortable-Athletic-Sneakers"
   },
   "sku_list": [
+    "ANTA-Cushioning-Comfortable-Breathable-Athletic",
     "Abboos-Athletic-Comfortable-Lightweight-Sneakers",
+    "DOUSSPRT-Walking-Sneakers-Cushion-Platform",
     "DUOYANGJIASHA-Womens-Sneakers-Tennis-Running",
+    "Damyuan-Lightweight-Athletic-Running-Sneakers",
     "Feethit-Lightweight-Breathable-Comfortable-Sneakers",
     "HKR-Walking-Platform-Sneakers",
+    "MCRONJI-Barefoot-Minimalist-Running-Sneakers",
     "RBX_Active_Men?s_Airy_Mesh_Athletic_Sneaker",
     "RBX_Active_Unisex_Adult_Athletic_Shoe",
     "RBX_Active_Women?s_Athletic_Sneaker",
@@ -459,20 +718,30 @@
     "RBX_Active_Women?s_Training_Shoe",
     "RJYWGS-Walking-Sneakers-Athletic-AllBlack",
     "SERNIAL-Womens-Leather-Sneakers-Walking",
-    "SHULOOK-Lightweight-Breathable-Non-Slip-Sneakers"
+    "SHULOOK-Lightweight-Breathable-Non-Slip-Sneakers",
+    "STQ-Walking-Comfortable-Athletic-Sneakers",
+    "Skechers-Womens-Squad-Service-black",
+    "adidas-Womens-Turnaround-Sneaker-Ivory"
   ],
   "slug_list": [
+    "5.OCCASION: work,walking,casual,floor shoes,plantar ,long standing,fasciitis,nursing,fishing,gardening,shopping,travel,driving,jazz,tap dance,street jazz,ballet,folk dance,zumba,athletic.",
     "Abboos-Athletic-Comfortable-Lightweight-Sneakers",
+    "Applicable occasions: jogging, running, fitness, walking, outdoor and other sports",
     "DUOYANGJIASHA-Womens-Sneakers-Tennis-Running",
     "Feethit-Lightweight-Breathable-Comfortable-Sneakers",
     "HKR-Walking-Platform-Sneakers",
+    "MCRONJI-Barefoot-Minimalist-Running-Sneakers",
+    "Occasion ]: Everyday walking shoes for women, you can use it as your daily shoes, such as walking, long time standing, work, food service, coffee shop, dessert store, nursing, shopping, traveling, casual indoor and outdoor activities",
     "RBX_Active_Men?s_Airy_Mesh_Athletic_Sneaker",
     "RBX_Active_Unisex_Adult_Athletic_Shoe",
     "RBX_Active_Women?s_Athletic_Sneaker",
     "RBX_Active_Women?s_Slip_On_Athletic_Training_Shoe",
     "RBX_Active_Women?s_Training_Shoe",
+    "RELIABLE TRACTION: Flexible slip resistant work shoes for women with tested traction outsole for confident stability",
     "RJYWGS-Walking-Sneakers-Athletic-AllBlack",
     "SERNIAL-Womens-Leather-Sneakers-Walking",
-    "SHULOOK-Lightweight-Breathable-Non-Slip-Sneakers"
+    "SHULOOK-Lightweight-Breathable-Non-Slip-Sneakers",
+    "[Night-time Safety] Complete with reflective strips, these sneakers increase your visibility during activities at night or in low-light conditions. Allowing you to take safe and confident steps",
+    "adidas-Womens-Turnaround-Sneaker-Ivory"
   ]
 }
