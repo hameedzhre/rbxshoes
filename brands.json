@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-02-01T18:55:03.532Z",
-    "total_brands": 8
+    "generated_at": "2026-02-02T03:12:19.392Z",
+    "total_brands": 15
   },
   "brands": {
     "abboos": {
@@ -15,6 +15,66 @@
       "categories": {
         "shoes": {
           "display_name": "Shoes",
+          "count": 1
+        }
+      }
+    },
+    "adidas": {
+      "display_name": "adidas",
+      "count": 1,
+      "products": [
+        "adidas-Womens-Turnaround-Sneaker-Ivory"
+      ],
+      "avg_rating": 4.4,
+      "avg_price": 48.34,
+      "categories": {
+        "shoes": {
+          "display_name": "Shoes",
+          "count": 1
+        }
+      }
+    },
+    "anta": {
+      "display_name": "ANTA",
+      "count": 1,
+      "products": [
+        "ANTA-Cushioning-Comfortable-Breathable-Athletic"
+      ],
+      "avg_rating": 4.5,
+      "avg_price": 77.49,
+      "categories": {
+        "shoes": {
+          "display_name": "shoes",
+          "count": 1
+        }
+      }
+    },
+    "damyuan": {
+      "display_name": "DAMYUAN",
+      "count": 1,
+      "products": [
+        "Damyuan-Lightweight-Athletic-Running-Sneakers"
+      ],
+      "avg_rating": 4,
+      "avg_price": 28.49,
+      "categories": {
+        "shoes": {
+          "display_name": "SHOES",
+          "count": 1
+        }
+      }
+    },
+    "doussprt": {
+      "display_name": "DOUSSPRT",
+      "count": 1,
+      "products": [
+        "DOUSSPRT-Walking-Sneakers-Cushion-Platform"
+      ],
+      "avg_rating": 4.2,
+      "avg_price": 34.49,
+      "categories": {
+        "shoes": {
+          "display_name": "SHOES",
           "count": 1
         }
       }
@@ -57,6 +117,21 @@
       ],
       "avg_rating": 4,
       "avg_price": 38.44,
+      "categories": {
+        "shoes": {
+          "display_name": "Shoes",
+          "count": 1
+        }
+      }
+    },
+    "mcronji": {
+      "display_name": "MCRONJI",
+      "count": 1,
+      "products": [
+        "MCRONJI-Barefoot-Minimalist-Running-Sneakers"
+      ],
+      "avg_rating": 4.5,
+      "avg_price": 17.99,
       "categories": {
         "shoes": {
           "display_name": "Shoes",
@@ -124,6 +199,36 @@
       "categories": {
         "shoes": {
           "display_name": "Shoes",
+          "count": 1
+        }
+      }
+    },
+    "skechers": {
+      "display_name": "SKECHERS",
+      "count": 1,
+      "products": [
+        "Skechers-Womens-Squad-Service-black"
+      ],
+      "avg_rating": 4.4,
+      "avg_price": 56,
+      "categories": {
+        "shoes": {
+          "display_name": "SHOES",
+          "count": 1
+        }
+      }
+    },
+    "stq": {
+      "display_name": "STQ",
+      "count": 1,
+      "products": [
+        "STQ-Walking-Comfortable-Athletic-Sneakers"
+      ],
+      "avg_rating": 4.1,
+      "avg_price": 34.74,
+      "categories": {
+        "shoes": {
+          "display_name": "SHOES",
           "count": 1
         }
       }
