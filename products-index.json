@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "generated_at": "2026-02-02T03:12:18.071Z",
+    "generated_at": "2026-02-02T06:30:26.817Z",
     "total_products": 19,
-    "last_updated": "2026-02-02T03:12:18.071Z",
+    "last_updated": "2026-02-02T06:30:26.817Z",
     "format_version": "1.1"
   },
   "categories": {
@@ -10,20 +10,12 @@
       "count": 19,
       "subcategories": {
         "gym shoes": {
-          "count": 2,
+          "count": 5,
           "display_name": "Gym Shoes"
         },
         "walking shoes": {
-          "count": 7,
+          "count": 9,
           "display_name": "Walking Shoes"
-        },
-        "gym": {
-          "count": 3,
-          "display_name": "GYM"
-        },
-        "walking": {
-          "count": 2,
-          "display_name": "WALKING"
         },
         "running shoes": {
           "count": 5,
@@ -53,7 +45,7 @@
           "sku": "ANTA-Cushioning-Comfortable-Breathable-Athletic",
           "name": "ANTA-Cushioning-Comfortable-Breathable-Athletic",
           "brand": "ANTA",
-          "subcategory": "GYM",
+          "subcategory": "Gym Shoes",
           "price": "77.49",
           "rating": 4.5,
           "slug": "[Night-time Safety] Complete with reflective strips, these sneakers increase your visibility during activities at night or in low-light conditions. Allowing you to take safe and confident steps"
@@ -62,7 +54,7 @@
           "sku": "Damyuan-Lightweight-Athletic-Running-Sneakers",
           "name": "Damyuan Mens Lightweight Athletic Running Walking Gym Shoes Casual Sports Shoes Fashion Sneakers Walking Shoes",
           "brand": "DAMYUAN",
-          "subcategory": "GYM",
+          "subcategory": "Gym Shoes",
           "price": "28.49",
           "rating": 4,
           "slug": "Applicable occasions: jogging, running, fitness, walking, outdoor and other sports"
@@ -71,7 +63,7 @@
           "sku": "DOUSSPRT-Walking-Sneakers-Cushion-Platform",
           "name": "DOUSSPRT Womens Walking Shoes Slip on Sock Sneakers Lady Girls Nurse Mesh Air Cushion Platform Loafers Fashion Casual",
           "brand": "DOUSSPRT",
-          "subcategory": "WALKING",
+          "subcategory": "Walking Shoes",
           "price": "34.49",
           "rating": 4.2,
           "slug": "5.OCCASION: work,walking,casual,floor shoes,plantar ,long standing,fasciitis,nursing,fishing,gardening,shopping,travel,driving,jazz,tap dance,street jazz,ballet,folk dance,zumba,athletic."
@@ -188,7 +180,7 @@
           "sku": "Skechers-Womens-Squad-Service-black",
           "name": "Skechers Women's Squad SR Food Service Shoes",
           "brand": "SKECHERS",
-          "subcategory": "GYM",
+          "subcategory": "Gym Shoes",
           "price": "56.00",
           "rating": 4.4,
           "slug": "RELIABLE TRACTION: Flexible slip resistant work shoes for women with tested traction outsole for confident stability"
@@ -197,7 +189,7 @@
           "sku": "STQ-Walking-Comfortable-Athletic-Sneakers",
           "name": "STQ Walking Shoes Women Slip on Sneakers Non Slip Work Arch Support Tennis Plantar Fasciitis Orthopedic Breathable Mesh Comfortable Ladies Nursing",
           "brand": "STQ",
-          "subcategory": "WALKING",
+          "subcategory": "Walking Shoes",
           "price": "34.74",
           "rating": 4.1,
           "slug": "Occasion ]: Everyday walking shoes for women, you can use it as your daily shoes, such as walking, long time standing, work, food service, coffee shop, dessert store, nursing, shopping, traveling, casual indoor and outdoor activities"
@@ -514,7 +506,7 @@
       "name": "ANTA-Cushioning-Comfortable-Breathable-Athletic",
       "brand": "ANTA",
       "category": "shoes",
-      "subcategory": "GYM",
+      "subcategory": "Gym Shoes",
       "price": "77.49",
       "rating": 4.5,
       "slug": "[Night-time Safety] Complete with reflective strips, these sneakers increase your visibility during activities at night or in low-light conditions. Allowing you to take safe and confident steps",
@@ -524,7 +516,7 @@
       "name": "Damyuan Mens Lightweight Athletic Running Walking Gym Shoes Casual Sports Shoes Fashion Sneakers Walking Shoes",
       "brand": "DAMYUAN",
       "category": "SHOES",
-      "subcategory": "GYM",
+      "subcategory": "Gym Shoes",
       "price": "28.49",
       "rating": 4,
       "slug": "Applicable occasions: jogging, running, fitness, walking, outdoor and other sports",
@@ -534,7 +526,7 @@
       "name": "DOUSSPRT Womens Walking Shoes Slip on Sock Sneakers Lady Girls Nurse Mesh Air Cushion Platform Loafers Fashion Casual",
       "brand": "DOUSSPRT",
       "category": "SHOES",
-      "subcategory": "WALKING",
+      "subcategory": "Walking Shoes",
       "price": "34.49",
       "rating": 4.2,
       "slug": "5.OCCASION: work,walking,casual,floor shoes,plantar ,long standing,fasciitis,nursing,fishing,gardening,shopping,travel,driving,jazz,tap dance,street jazz,ballet,folk dance,zumba,athletic.",
@@ -664,7 +656,7 @@
       "name": "Skechers Women's Squad SR Food Service Shoes",
       "brand": "SKECHERS",
       "category": "SHOES",
-      "subcategory": "GYM",
+      "subcategory": "Gym Shoes",
       "price": "56.00",
       "rating": 4.4,
       "slug": "RELIABLE TRACTION: Flexible slip resistant work shoes for women with tested traction outsole for confident stability",
@@ -674,7 +666,7 @@
       "name": "STQ Walking Shoes Women Slip on Sneakers Non Slip Work Arch Support Tennis Plantar Fasciitis Orthopedic Breathable Mesh Comfortable Ladies Nursing",
       "brand": "STQ",
       "category": "SHOES",
-      "subcategory": "WALKING",
+      "subcategory": "Walking Shoes",
       "price": "34.74",
       "rating": 4.1,
       "slug": "Occasion ]: Everyday walking shoes for women, you can use it as your daily shoes, such as walking, long time standing, work, food service, coffee shop, dessert store, nursing, shopping, traveling, casual indoor and outdoor activities",
